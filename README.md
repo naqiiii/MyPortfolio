@@ -1,6 +1,6 @@
 # Syed Hassan Raza | Portfolio 
 
-🚀 **Live Demo**: [https://naqiiii.github.io](https://naqiiii.github.io)  
+🚀 **Live Demo**: [https://naqiiii.github.io](https://naqiiii/MyPortfolio.github.io)  
 
 ![Portfolio Preview](images/preview.png)  
 
