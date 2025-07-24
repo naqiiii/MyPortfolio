@@ -1,5 +1,7 @@
 # Syed Hassan Raza | Portfolio 
 
+[naqiiii.github.io/MyPortfolio](https://naqiiii.github.io/MyPortfolio)  
+
 ## Features
 ✔️ **Modern UI** with dark/light mode  
 ✔️ **Responsive design** (mobile/tablet/desktop)  
