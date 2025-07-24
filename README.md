@@ -18,7 +18,7 @@
 ## How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/naqiiii/naqiiii.github.io.git
+   git clone https://github.com/naqiiii/MyPortfolio.github.io.git
    ```
 2. Open `index.html` in browser  
 
