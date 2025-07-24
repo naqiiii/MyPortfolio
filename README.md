@@ -1,9 +1,5 @@
 # Syed Hassan Raza | Portfolio 
 
-🌐 **Live Demo**: [https://naqiiii.github.io/MyPortfolio](https://naqiiii.github.io/MyPortfolio)  
-
-![Portfolio Preview](images/preview.png)  
-
 ## Features
 ✔️ **Modern UI** with dark/light mode  
 ✔️ **Responsive design** (mobile/tablet/desktop)  
